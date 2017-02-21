@@ -47,7 +47,7 @@
                 "-c"
             ],
             "command": [
-                "/bin/sh -c \"while true; do /bin/date > /var/www/my-vol/date; sleep 1; done\""
+                "/bin/sh -c \"while true; do /bin/date > /var/www/my-vol/date; sleep 1000; done\""
             ],
             "essential": false
         }

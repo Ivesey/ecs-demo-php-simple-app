@@ -19,12 +19,15 @@
                 <h2>Go Me!</h2>
                 <p>My PHP application is running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
+                <p>Here is a list of my favourite things as at:
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
-
+                <ul>
+                  <li>Skiing in Courmayeur</li>
+                </ul>
             </div>
         </div>
 

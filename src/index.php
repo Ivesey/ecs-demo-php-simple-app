@@ -27,6 +27,7 @@
                 ?>
                 <ul>
                   <li>Skiing in Courmayeur</li>
+                  <li>Automating all of the things</li>
                 </ul>
             </div>
         </div>

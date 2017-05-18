@@ -29,6 +29,7 @@
                   <li>Skiing in Courmayeur</li>
                   <li>Automating all of the things</li>
                   <li>Buying a yacht in St Katherine's dock ... maybe ...</li>
+                  <li>Yachting in the Ionian</li>
                 </ul>
             </div>
         </div>

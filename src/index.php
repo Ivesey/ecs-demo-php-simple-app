@@ -31,6 +31,7 @@
                   <li>Buying a yacht in St Katherine's dock ... maybe ...</li>
                   <li>Yachting in the Ionian</li>
                   <li>Eating Chicken Gyros in the Pheonix</li>
+                  <li>Setting up an irrigation system in my garden</li>
                 </ul>
             </div>
         </div>

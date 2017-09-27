@@ -32,6 +32,7 @@
                   <li>Yachting in the Ionian</li>
                   <li>Eating Chicken Gyros in the Pheonix</li>
                   <li>Setting up an irrigation system in my garden</li>
+                  <li>Getting AWS to change the OpsWorks console to avoid the race condition</li>
                 </ul>
             </div>
         </div>

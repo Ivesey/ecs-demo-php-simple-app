@@ -34,6 +34,7 @@
                   <li>Setting up an irrigation system in my garden</li>
                   <li>Getting AWS to change the OpsWorks console to avoid the race condition</li>
                   <li>Apparently, saying "awesome" a lot...</li>
+                  <li>AWS Lambda. It can do everything, you know?</li>
                 </ul>
             </div>
         </div>

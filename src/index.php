@@ -35,6 +35,7 @@
                   <li>Getting AWS to change the OpsWorks console to avoid the race condition</li>
                   <li>Apparently, saying "awesome" a lot...</li>
                   <li>AWS Lambda. It can do everything, you know?</li>
+                    <li>Drinking Agua de Valencia</li>
                 </ul>
             </div>
         </div>
